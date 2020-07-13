@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile-pic](https://github.com/AmanPriyanshu/AmanPriyanshu/blob/master/akira-profile-banner.jpg)
+<img src="https://github.com/AmanPriyanshu/AmanPriyanshu/raw/master/akira-profile-banner.jpg" alt="Profile-pic" style="max-width:100%;">
 
 #### Who am i?
 ----
