@@ -6,6 +6,8 @@
 ----
 My name is Aman Priyanshu, I am a machine learning and deep learning enthusiast with a taste for cybersecurity and quantum computing. I really really enjoy working on Open Source Projects and would love to contribute to the community as a whole.
 
+##### Education:
+
 I am currently studying in Manipal Institute of Technology for Undergrad in Information Technology. (Batch of 2019-2023)
 I am part of the Cryptonite Team, which is the CyberSecurity Team of my Insititute.
 
