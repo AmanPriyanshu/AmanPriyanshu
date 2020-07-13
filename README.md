@@ -36,4 +36,5 @@ A deployable projects to help classify similar PDFs into different folders. It u
 #### Get in Touch:
 ----
 email: amanpriyanshusms2001@gmail.com
+
 linkedin: https://www.linkedin.com/in/aman-priyanshu-050473191/
