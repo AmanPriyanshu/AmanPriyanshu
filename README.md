@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://github.com/AmanPriyanshu/AmanPriyanshu/raw/master/akira-profile-banner.jpg)
+![](https://github.com/AmanPriyanshu/AmanPriyanshu/blob/master/akira-profile-banner%20-%20Copy.jpg)
 
 ### Allô!
 ----
