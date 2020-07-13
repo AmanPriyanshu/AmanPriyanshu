@@ -1,15 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-![Profile-pic]()
+<img src="https://github.com/AmanPriyanshu/AmanPriyanshu/raw/master/akira-profile-banner.jpg" alt="Profile-pic" style="max-width:50%;">
 
-#### Who am i?
+### Allô!
 ----
 My name is Aman Priyanshu, I am a machine learning and deep learning enthusiast with a taste for cybersecurity and quantum computing. I really really enjoy working on Open Source Projects and would love to contribute to the community as a whole.
+
+#### Education:
 
 I am currently studying in Manipal Institute of Technology for Undergrad in Information Technology. (Batch of 2019-2023)
 I am part of the Cryptonite Team, which is the CyberSecurity Team of my Insititute.
 
-#### Interests:
+### Interests:
 ----
 * I enjoy working on ML and DL projects
 * Reinforcement Learning is something I want to pursue in detail, however, lack much experience on it
@@ -17,7 +19,7 @@ I am part of the Cryptonite Team, which is the CyberSecurity Team of my Insititu
 * Quantum Computing
 * Cryptography
 
-#### Favourite Repositories:
+### Favourite Repositories:
 ----
 * [Discussing Learning](https://github.com/AmanPriyanshu/Discussing_Learning)
 
@@ -35,7 +37,7 @@ My implementation Stochastic Outlier Selection. You can download it and directly
 
 A deployable projects to help classify similar PDFs into different folders. It uses Unsupervised Learning - K-Means and uses TF-IDF vectorization. 
 
-#### Get in Touch:
+### Get in Touch:
 ----
 email: amanpriyanshusms2001@gmail.com
 
