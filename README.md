@@ -21,7 +21,7 @@ I am part of the Cryptonite Team, which is the CyberSecurity Team of my Insititu
 
 ### Favourite Repositories:
 ----
-* [Discussing Learning](https://github.com/AmanPriyanshu/Discussing_Learning)
+* [Discussing Learning](https://github.com/AmanPriyanshu/Discussing_Learning) [will public after publication]
 * [Quantum Computing Basics](https://github.com/AmanPriyanshu/Quantum-Computing-Intro)
 * [Py-SOS](https://github.com/AmanPriyanshu/py-stochastic-outlier-selection)
 * [PDF-Classifier](https://github.com/AmanPriyanshu/pdf_classifier)
