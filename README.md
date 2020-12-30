@@ -14,7 +14,7 @@ I am a Software Engineer who is studying a B.Tech in Information Technology👨�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-priyanshu-050473191/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmanPriyanshu)
 
-   19 year old Developer.
+   Research Enthusiast.
  
 👨‍🎓 Studying Information Technology at Manipal Institute of Technology.
 
