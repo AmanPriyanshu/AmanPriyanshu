@@ -1,33 +1,27 @@
-## Hi there 👋
 
-![](https://github.com/AmanPriyanshu/AmanPriyanshu/blob/master/akira-profile-banner%20-%20Copy.jpg)
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-### Allô!
-----
-My name is Aman Priyanshu, I am a machine learning and deep learning enthusiast with a taste for cybersecurity and quantum computing. I really really enjoy working on Open Source Projects and would love to contribute to the community as a whole.
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=AmanPriyanshu&show_icons=true">
 
-#### Education:
+# Hi there I'm Aman Priyanshu,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am currently studying in Manipal Institute of Technology for Undergrad in Information Technology. (Batch of 2019-2023)
-I am part of the Cryptonite Team, which is the CyberSecurity Team of my Insititute.
 
-### Interests:
-----
-* I enjoy working on ML and DL projects
-* Reinforcement Learning is something I want to pursue in detail, however, lack much experience on it
-* Pure Mathemetics
-* Quantum Computing
-* Cryptography
 
-### Favourite Repositories:
-----
-* [Discussing Learning](https://github.com/AmanPriyanshu/Discussing_Learning) [will public after publication]
-* [Quantum Computing Basics](https://github.com/AmanPriyanshu/Quantum-Computing-Intro)
-* [Py-SOS](https://github.com/AmanPriyanshu/py-stochastic-outlier-selection)
-* [PDF-Classifier](https://github.com/AmanPriyanshu/pdf_classifier)
+I am a Software Engineer who is studying a B.Tech in Information Technology👨‍💻. I am deeply passionate about Deep Learning, Cyber Security and the Research bringing together these two vast fields. Exploring opportunities to learn and grow to pursue development and research in these and other technologies.
 
-### Get in Touch:
-----
-email: amanpriyanshusms2001@gmail.com
 
-linkedin: https://www.linkedin.com/in/aman-priyanshu-050473191/
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanpriyanshusms2001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-priyanshu-050473191/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmanPriyanshu)
+
+   19 year old Developer.
+ 
+👨‍🎓 Studying Information Technology at Manipal Institute of Technology.
+
+
+**My Interests:**  *Deep Learning and Privacy Enabled Machine Learning*
+
+
+<a href="https://github.com/AmanPriyanshu/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanPriyanshu&layout=compact&theme=light" />
+</a>
