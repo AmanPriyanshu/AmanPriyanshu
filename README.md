@@ -1,7 +1,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=AmanPriyanshu&show_icons=true">
+![Aman Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=amanpriyanshu&count_private=true&show_icons=true&theme=dracula)
 
 # Hi there I'm Aman Priyanshu,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
