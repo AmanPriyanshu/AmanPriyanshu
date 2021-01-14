@@ -23,5 +23,5 @@ I am a Software Engineering Student who is pursuing B.Tech in Information Techno
 
 
 <a href="https://github.com/AmanPriyanshu/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanPriyanshu&layout=compact&theme=light" />
+[GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanPriyanshu&layout=compact&theme=dracula)
 </a>
