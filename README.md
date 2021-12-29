@@ -23,4 +23,4 @@ I am a Software Engineering Student who is pursuing B.Tech in Information Techno
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanPriyanshu&layout=compact&theme=dracula)
-![Visitor Count](https://profile-counter.glitch.me/{AmanPriyanshu}/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/AmanPriyanshu/AmanPriyanshu)](https://amanpriyanshu.github.io/)
