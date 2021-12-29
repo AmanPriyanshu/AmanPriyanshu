@@ -21,6 +21,7 @@ I am a Software Engineering Student who is pursuing B.Tech in Information Techno
 
 **My Interests:**  *Deep Learning and Privacy Enabled Machine Learning*
 
+## Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanPriyanshu&layout=compact&theme=dracula)
 
