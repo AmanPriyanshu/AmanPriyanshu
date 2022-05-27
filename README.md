@@ -34,4 +34,9 @@ I am a Software Engineering Student who is pursuing B.Tech in Information Techno
 </a>
 </p>
 
+### 📈 GitHub Activity:
+  <a href="https://github.com/AmanPriyanshu/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AmanPriyanshu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<br>
+<br>
+
 [![Visits Badge](https://badges.pufler.dev/visits/AmanPriyanshu/AmanPriyanshu)](https://amanpriyanshu.github.io/)
