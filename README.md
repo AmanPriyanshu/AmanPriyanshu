@@ -27,4 +27,11 @@ I am a Software Engineering Student who is pursuing B.Tech in Information Techno
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AmanPriyanshu&theme=radical)
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanPriyanshu&theme=dracula)
 
+### 🏆 GitHub Profile Trophy:
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=AmanPriyanshu&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
+
 [![Visits Badge](https://badges.pufler.dev/visits/AmanPriyanshu/AmanPriyanshu)](https://amanpriyanshu.github.io/)
