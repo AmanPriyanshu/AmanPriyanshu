@@ -23,7 +23,7 @@ I am a Software Engineering Student who is pursuing B.Tech in Information Techno
 
 ## Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanPriyanshu&layout=compact&theme=dracula&hide=jupyter%20notebook,html,css)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanPriyanshu&layout=compact&theme=dracula&hide=jupyter%20notebook)
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AmanPriyanshu&theme=radical)
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanPriyanshu&theme=dracula)
 
