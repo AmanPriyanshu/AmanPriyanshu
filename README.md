@@ -33,3 +33,6 @@ I am a Software Engineering Student who is pursuing B.Tech in Information Techno
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=AmanPriyanshu&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
+
+### Views:
+<a href="https://hits.sh/amanpriyanshu.github.io/"><img alt="Hits" src="https://hits.sh/amanpriyanshu.github.io.svg"/></a>
