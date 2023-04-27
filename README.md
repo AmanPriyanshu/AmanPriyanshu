@@ -35,4 +35,4 @@ I am a Software Engineering Student who is pursuing B.Tech in Information Techno
 </p>
 
 ### Views:
-<a href="https://hits.sh/amanpriyanshu.github.io/"><img alt="Hits" src="https://hits.sh/amanpriyanshu.github.io.svg"/></a>
+<a href="https://hits.sh/github.com/AmanPriyanshu/"><img alt="Hits" src="https://hits.sh/github.com/AmanPriyanshu.svg"/></a>
