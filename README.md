@@ -23,7 +23,7 @@ I am a Privacy Engineering Student pursuing MS in Privacy Engineering at CMU👨
 
 ## Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanPriyanshu&layout=compact&theme=dracula&hide=jupyter%20notebook)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanPriyanshu&layout=compact&theme=dracula&hide=jupyter%20notebook,html)
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AmanPriyanshu&theme=radical)
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanPriyanshu&theme=dracula)
 
