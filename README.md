@@ -8,7 +8,8 @@
 I am a Privacy Engineering Student pursuing MS in Privacy Engineering at CMU👨‍💻. I am deeply passionate about Deep Learning, Cyber Security and the Research bringing together these two vast fields. Exploring opportunities to learn and grow to pursue development and research in these and other technologies. Please check out my [Website](http://amanpriyanshu.github.io/)!
 
 ### Check out my curated selection of my blog:
-1. [FRACTURED-SORRY-Bench: A new multi-shot jailbreak dataset](https://amanpriyanshu.github.io/blogs/posts/2024/fractured-sorry-bench/)
+1. [Breaching Privacy in Real-World Synthetic Data](https://amanpriyanshu.github.io/SynthLeak/)
+2. [FRACTURED-SORRY-Bench: A new multi-shot jailbreak dataset](https://amanpriyanshu.github.io/blogs/posts/2024/fractured-sorry-bench/)
 
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanpriyanshusms2001@gmail.com)
