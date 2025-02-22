@@ -32,7 +32,7 @@ I am a Privacy Engineering Student pursuing MS in Privacy Engineering at CMU👨
 ### 🏆 GitHub Profile Trophy:
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=AmanPriyanshu&column=8&theme=onedark&no-frame=true&no-bg=true&rank=-C,-B"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=AmanPriyanshu&column=8&theme=onedark&no-frame=true&no-bg=true&rank=-C,-B-?"/>
 </a>
 </p>
 
